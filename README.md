@@ -4,4 +4,4 @@ This is a car selling price prediction application which takes in various inputs
 
 <sub><sup>The github page has been deployed before deployment using heroku so it does not work </sup></sub> 
 
-## Website : https://car-price-rishav-panda.herokuapp.com/
+## Website : https://mjcarpricepredictor.herokuapp.com/
